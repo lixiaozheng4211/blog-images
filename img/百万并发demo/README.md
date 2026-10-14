@@ -263,6 +263,7 @@ ET:
    ![](https://cdn.jsdelivr.net/gh/lixiaozheng4211/blog-images@c53eb573998b714b0c9081daeb88f7ac5cb20ae8/img/%E7%99%BE%E4%B8%87%E5%B9%B6%E5%8F%91demo/mv7t73eq.png)
 
 2. 修改/etc/security/limits.conf
+   
    ![](https://cdn.jsdelivr.net/gh/lixiaozheng4211/blog-images@c53eb573998b714b0c9081daeb88f7ac5cb20ae8/img/%E7%99%BE%E4%B8%87%E5%B9%B6%E5%8F%91demo/mv7t74ms.png)
 
 3. 系统资源的限制
@@ -271,9 +272,11 @@ ET:
    可以在服务器端开放多个端口，也就是创建多个listenfd, 这样可以提高服务器的并发数量
 
 4. net.nf_conntrack_max 修改网络防火墙允许链路建立的个数
+   
    ![](https://cdn.jsdelivr.net/gh/lixiaozheng4211/blog-images@c53eb573998b714b0c9081daeb88f7ac5cb20ae8/img/%E7%99%BE%E4%B8%87%E5%B9%B6%E5%8F%91demo/mv7t73eq.png)
 
 5. 实测截图
+
    ![](https://cdn.jsdelivr.net/gh/lixiaozheng4211/blog-images@c53eb573998b714b0c9081daeb88f7ac5cb20ae8/img/%E7%99%BE%E4%B8%87%E5%B9%B6%E5%8F%91demo/mv7t7600.png)
 
 欢迎大家指出小白的错误 , 谢谢!

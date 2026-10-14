@@ -263,7 +263,7 @@ ET:
    ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/487e5e40d5624e22ab26a8504b54df44.png)
 
 2. 修改/etc/security/limits.conf
-   ![](C:\Users\lixiaozheng\Downloads\d754950a6c434cd4b424c5238be4affa.png)
+   ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/832436062a4843c5b2e5abc95a3c9254.png)
 
 3. 系统资源的限制
    通常一个tcp 连接由五元组组成 

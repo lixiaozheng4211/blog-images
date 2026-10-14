@@ -263,7 +263,8 @@ ET:
    ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/487e5e40d5624e22ab26a8504b54df44.png)
 
 2. 修改/etc/security/limits.conf
-   ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/832436062a4843c5b2e5abc95a3c9254.png)
+
+    ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-13%20130639.png)
 
 3. 系统资源的限制
    通常一个tcp 连接由五元组组成 
@@ -271,9 +272,10 @@ ET:
    可以在服务器端开放多个端口，也就是创建多个listenfd, 这样可以提高服务器的并发数量
 
 4. net.nf_conntrack_max 修改网络防火墙允许链路建立的个数
-   ![](C:\Users\lixiaozheng\Downloads\832436062a4843c5b2e5abc95a3c9254.png)
 
-5. 实测截图
-   ![](C:/Users/lixiaozheng/AppData/Roaming/marktext/images/2026-10-14-13-07-47-image.png)
+   ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/832436062a4843c5b2e5abc95a3c9254.png)
+   
+6. 实测截图
+   ![](https://github.com/lixiaozheng4211/blog-images/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-14%20125923.png)
 
 欢迎大家指出小白的错误 , 谢谢!
